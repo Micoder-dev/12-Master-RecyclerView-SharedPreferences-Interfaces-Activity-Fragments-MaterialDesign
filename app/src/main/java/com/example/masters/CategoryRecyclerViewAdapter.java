@@ -1,4 +1,4 @@
-package com.example.simplerecyclerview;
+package com.example.masters;
 
 import android.view.LayoutInflater;
 import android.view.View;

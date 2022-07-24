@@ -1,10 +1,12 @@
-package com.example.simplerecyclerview;
+package com.example.masters;
 
 import android.view.View;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.masters.R;
 
 public class CategoryRecyclerViewHolder extends RecyclerView.ViewHolder {
 
