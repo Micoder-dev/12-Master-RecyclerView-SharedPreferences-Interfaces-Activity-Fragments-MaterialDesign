@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/MI_Coder/Desktop/AppProjects/SimpleRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.2375" />
-        <entry key="..\:/Users/MI_Coder/Desktop/AppProjects/SimpleRecyclerView/app/src/main/res/layout/recycler_view_items.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/MI_Coder/Desktop/AppProjects/Masters/app/src/main/res/layout-v23/recycler_view_items.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/MI_Coder/Desktop/AppProjects/Masters/app/src/main/res/layout/activity_main.xml" value="0.2375" />
+        <entry key="..\:/Users/MI_Coder/Desktop/AppProjects/Masters/app/src/main/res/layout/recycler_view_items.xml" value="0.2520833333333333" />
       </map>
     </option>
   </component>

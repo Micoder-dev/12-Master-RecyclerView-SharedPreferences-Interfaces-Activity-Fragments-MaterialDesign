@@ -5,6 +5,10 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
+
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,6 +23,15 @@ public class MainActivity extends AppCompatActivity {
 
         categoryRecyclerView.setAdapter(new CategoryRecyclerViewAdapter());
         categoryRecyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+        FloatingActionButton fab = findViewById(R.id.fab);
+
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(MainActivity.this, "fab", Toast.LENGTH_SHORT).show();
+            }
+        });
 
     }
 }
