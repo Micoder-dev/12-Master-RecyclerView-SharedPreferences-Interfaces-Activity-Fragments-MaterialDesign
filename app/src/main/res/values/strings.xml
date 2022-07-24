@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Masters</string>
+    <string name="alertTitle">Enter the name of category</string>
+    <string name="positiveButtonTitle">Create</string>
 </resources>
